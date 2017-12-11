@@ -1,0 +1,92 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\b51\ledtest\ledtest.uvproj
+Project File Date:  12/11/2017
+
+<h2>Output:</h2>
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+LX51 LINKER/LOCATER V4.41 - SN: K1SMC-4WGYQC
+COPYRIGHT KEIL ELEKTRONIK GmbH 1995 - 2009
+@ledtest.lnp "STARTUP.obj",
+"main.obj",
+"..\cstlib\cstlib.LIB" 
+TO "ledtest" 
+*** WARNING L52: EVAL VERSION USED BEFORE, REBUILD ALL *.OBJ FILES
+    MODULE:  ..\cstlib\cstlib.LIB (CSTFX)
+*** ERROR L251: RESTRICTED MODULE IN LIBRARY NOT SUPPORTED
+    MODULE:  ..\cstlib\cstlib.LIB (CSTFX)
+Target not created
+Build target 'Target 1'
+linking...
+LX51 LINKER/LOCATER V4.41 - SN: K1SMC-4WGYQC
+COPYRIGHT KEIL ELEKTRONIK GmbH 1995 - 2009
+@ledtest.lnp "STARTUP.obj",
+"main.obj",
+"..\cstlib\cstlib.LIB" 
+TO "ledtest" 
+*** WARNING L52: EVAL VERSION USED BEFORE, REBUILD ALL *.OBJ FILES
+    MODULE:  ..\cstlib\cstlib.LIB (CSTFX)
+*** ERROR L251: RESTRICTED MODULE IN LIBRARY NOT SUPPORTED
+    MODULE:  ..\cstlib\cstlib.LIB (CSTFX)
+Target not created
+Build target 'Target 1'
+linking...
+LX51 LINKER/LOCATER V4.41 - SN: K1SMC-4WGYQC
+COPYRIGHT KEIL ELEKTRONIK GmbH 1995 - 2009
+@ledtest.lnp "STARTUP.obj",
+"main.obj",
+"..\cstlib\cstlib.LIB" 
+TO "ledtest" 
+*** WARNING L52: EVAL VERSION USED BEFORE, REBUILD ALL *.OBJ FILES
+    MODULE:  ..\cstlib\cstlib.LIB (CSTFX)
+*** ERROR L251: RESTRICTED MODULE IN LIBRARY NOT SUPPORTED
+    MODULE:  ..\cstlib\cstlib.LIB (CSTFX)
+Target not created
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+LX51 LINKER/LOCATER V4.41 - SN: K1SMC-4WGYQC
+COPYRIGHT KEIL ELEKTRONIK GmbH 1995 - 2009
+@ledtest.lnp "STARTUP.obj",
+"main.obj",
+"..\cstlib\cstlib.LIB" 
+TO "ledtest" 
+*** WARNING L52: EVAL VERSION USED BEFORE, REBUILD ALL *.OBJ FILES
+    MODULE:  ..\cstlib\cstlib.LIB (CSTFX)
+*** ERROR L251: RESTRICTED MODULE IN LIBRARY NOT SUPPORTED
+    MODULE:  ..\cstlib\cstlib.LIB (CSTFX)
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=0 const=0 code=23
+"ledtest" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=0 const=0 code=23
+"ledtest" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=0 const=0 code=23
+"ledtest" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=0 const=0 code=23
+creating hex file from "ledtest"...
+"ledtest" - 0 Error(s), 0 Warning(s).

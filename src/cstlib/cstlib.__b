@@ -1,0 +1,5 @@
+TRANSFER
+"led.obj",
+"cstfx.obj",
+"STARTUP.obj" 
+TO "cstlib.LIB"

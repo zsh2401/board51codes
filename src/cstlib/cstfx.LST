@@ -1,0 +1,28 @@
+C51 COMPILER V9.01   CSTFX                                                                 12/11/2017 19:21:15 PAGE 1   
+
+
+C51 COMPILER V9.01, COMPILATION OF MODULE CSTFX
+OBJECT MODULE PLACED IN cstfx.OBJ
+COMPILER INVOKED BY: D:\Keil\C51\BIN\C51.EXE cstfx.c DEBUG OBJECTEXTEND
+
+line level    source
+
+   1          #include "cstfx.h"
+   2          #include "led.h"
+   3          extern void test(void){
+   4   1              LED00 = 0;
+   5   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =      3    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)
